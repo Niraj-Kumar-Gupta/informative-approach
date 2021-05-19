@@ -873,7 +873,7 @@ a{
 
 .container:hover .card
 {
-  filter: blur(10px);
+  filter: blur(20px);
   transform: scale(0.9);
   opacity: 0.5;
 }
