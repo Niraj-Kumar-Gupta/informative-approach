@@ -94,10 +94,10 @@ header .navigation{
   from {color: yellow;}
   to {color: white;}
 }
-h1.head-content{
-  animation: mycal 3s infinite;
+/*h1.head-content{
+  animation: mycal 1s infinite;
   font-size:20px;
-}
+}*/
 
 header .navigation .navigation-items a{
   position: relative;
@@ -843,7 +843,7 @@ a{
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background-color: orange;
+  background-color: #1a1a31;
   background-attachment: fixed;
 }
 .container
