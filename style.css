@@ -1065,12 +1065,13 @@ a{
 /*<===========   OUR TEAM part of website =======>*/
 /*#team{ background-color: orange; }*/
 .section{ margin-left:-60px;}
+.container{ margin-left: -30px; }
 
  .section-title h2 {
   text-transform: uppercase;
 }
 .section-title {
-  margin: 3% ;
+  margin:-150px ;
 }
 .section-title p {
   text-transform: uppercase;
@@ -1157,7 +1158,6 @@ a{
   color:#fff;
   font-size:25px;
 }
-
 
 
 
