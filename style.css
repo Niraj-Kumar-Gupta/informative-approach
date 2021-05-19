@@ -871,9 +871,9 @@ a{
 
 }
 
-/*.container:hover .card
+.container:hover .card
 {
-  filter: blur(20px);
+  filter: blur(10px);
   transform: scale(0.9);
   opacity: 0.5;
 }
@@ -883,7 +883,7 @@ a{
   filter: blur(0px);
   transform: scale(1.1);
   opacity: 1;
-}*/
+}
 
 .container .card .circle
 {
