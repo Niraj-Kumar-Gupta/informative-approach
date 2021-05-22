@@ -3,7 +3,7 @@
 
 
 ## Project Name: 
- [Informative Approach](https://arpitgupta1014.github.io/Informative-approach/)
+ [Informative Approach](https://niraj-gupta26.github.io/informative-approach/)
 
 
 ## Introduction:
@@ -40,4 +40,4 @@ information updating feature.
 [Project Video](https://drive.google.com/file/d/1ZjNFThDTYhFmYTbl_wDUQrtPKZT1IjKZ/view?usp=sharing)
 
 ## Project link:
-[Website URL](https://arpitgupta1014.github.io/Informative-approach/)
+[Website URL](https://niraj-gupta26.github.io/informative-approach/)
